@@ -1,0 +1,4 @@
+CREATE TABLE Country (
+    CountryID INT PRIMARY KEY IDENTITY(1,1),
+    CountryName VARCHAR(100) NOT NULL
+);
